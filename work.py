@@ -5,3 +5,5 @@ print("dev1 work 2 done")
 print("dev1 work 3 done")
 print("dev1 work 4 done")
 print("dev1 work 5 done")
+def add(a,b):
+    return a+b
