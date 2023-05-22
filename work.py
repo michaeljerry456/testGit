@@ -1,3 +1,5 @@
 print("hello world")
 print("ready to commit")
 print("work 1 done ")
+print("work 2 done")
+print("work 3 done")
