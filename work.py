@@ -1,9 +1,9 @@
 print("hello world")
 print("ready to commit")
 print("work 1 done ")
-print("work 2 done")
-print("work 3 done")
-print("work 4 done")
-print("work 5 done")
-print("work 6 done")
-print("work 7 done")
+print("dev1 work 2 done")
+print("dev1 work 3 done")
+print("dev1 work 4 done")
+print("dev1 work 5 done")
+def add(a,b):
+    return a+b
