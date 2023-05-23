@@ -7,3 +7,5 @@ print("dev1 work 4 done")
 print("dev1 work 5 done")
 def add(a,b):
     return a+b
+
+print(add(2,8))
