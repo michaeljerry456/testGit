@@ -10,3 +10,4 @@ def add(a,b):
 
 print(add(2,8))
 print(add(3,7))
+print(add(8,6))
