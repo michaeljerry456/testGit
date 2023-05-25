@@ -13,3 +13,6 @@ print(add(3,7))
 print(add(8,6))
 print(add(3,3))
 print(add(8,5))
+
+import password_generator
+
